@@ -9,7 +9,7 @@ Public good vs the State.
 
 # Elevator pitch
 
-This is an adventure game set in a sci-fi world inspired by the rapid developments and growth in Blockchain and Artificial intelligence technologies. Its gameplay is strongly story-driven and based on a fictional world.
+We are developing an adventure game set in a sci-fi world inspired by the rapid developments and growth in Blockchain and Artificial intelligence technologies. Its gameplay is strongly story-driven and based on a fictional world.
 
 # Concept
 
