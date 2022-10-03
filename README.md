@@ -33,4 +33,4 @@ Ethereum Wallet
 
 # Theme and setting
 
-Sidekick is an adventure game set in a fictional version of an advanced China. The player takes on the role of a public good leader in the effort of decentralizing the world and prevent the few elites of the State making and abusing laws and gets to shut down big data centers used by the state to surveil the people, completing different challenges to progress. While the geographic setting of the game realistic, the game features some unrealistic  elements.
+Sidekick is an adventure game set in a fictional version of an advanced China. The player takes on the role of a public good leader in the effort of decentralizing the world and prevent the few elites of the State, the player gets to shut down big data centers used by the state to surveil the people and completing different challenges to progress. While the geographic setting of the game is realistic, the game features some unrealistic  elements.
