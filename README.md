@@ -15,15 +15,13 @@ This is an adventure game set in a sci-fi world inspired by the rapid developmen
 
 Overview
 
-Genre: Open-world RPG / Action
+Genre: Adventure / Action
 
-Target audience:
+Target audience: Crypto enthusiasts
 
 Age: 15-40
 
 Gender: Male/Female
-
-Crypto enthusiast
 
 Monetization: Freemium, with in-game microtransactions
 
