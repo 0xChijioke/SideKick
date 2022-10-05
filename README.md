@@ -39,6 +39,8 @@ Sidekick is an adventure game set in a fictional city Voltic. The player takes 
 
 # Story
 Backstory
+
+
 This game is a story of a time man has only dreamed of, with advancements in technology where everything was almost possible. Voltic is a leading city in these advancements and practiced a Democratic system on paper, while in reality the elites of the city had control of everything down to the private data of citizens, who were elected into power and essentially decided the economic situation of the city.
 
 The elites believed that not everyone should have a say in the faith of the city, and would use any means necessary to protect the centralized power of the city.
