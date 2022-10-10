@@ -56,3 +56,6 @@ The evangelists are on a mission to frustrate the governments efforts and preven
 
 Who takes control of Etherium?
 
+
+# Gameplay
+
