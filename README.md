@@ -16,7 +16,7 @@ Sidekick aims to produce a fun, addictive and action packed sci-fi game that wil
 
 Overview
 
-Genre: Adventure / Action
+Genre: Role playing/ Open world / Action
 
 Target audience: Crypto enthusiasts
 
