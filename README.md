@@ -34,7 +34,9 @@ Ethereum Wallet
 
 # Theme and setting
 
-Sidekick is an adventure game set in a fictional city Voltic. The player takes on the role of a public good leader in the effort to put power back in the hands of  the majority with his frens, and prevent the few elites of the State from a planned sybil attack on Etherium a permissionless network which the public has chosen over the central command owned and operated by the State, the player gets to shut down data centers used by the state to surveil the people and completes different challenges to progress.
+Sidekick is an adventure game set in a fictional city Voltic. 
+
+The player takes on the role of a public good leader in the effort to put power back in the hands of  the majority with his frens, and prevent the few elites of the State from a planned sybil attack on Etherium a permissionless network which the public has chosen over the central command owned and operated by the State, the player gets to shut down data centers used by the state to surveil the people and completes different challenges to progress.
 
 
 # Story
