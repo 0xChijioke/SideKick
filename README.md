@@ -4,7 +4,7 @@ Public good vs the State.
 
 # Elevator pitch
 
-Sidekick is an Role playing/Open world game set in a sci-fi world which features, and is inspired by developments and growth in Blockchain and Artificial intelligence technologies. Its gameplay is strongly story-driven.
+Sidekick is a Role playing/Open world game set in a sci-fi world which features, and is inspired by developments and growth in Blockchain and Artificial intelligence technologies. Its gameplay is strongly story-driven.
 
 # Concept
 Sidekick aims to produce a fun, addictive and action packed sci-fi game that will leverage novel graphic methods.
