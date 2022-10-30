@@ -61,3 +61,8 @@ Who takes control of Etherium?
 
 # Gameplay
 
+Todo:
+Complete feasibility study
+Create offical submission
+Make demo video
+
